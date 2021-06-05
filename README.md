@@ -1,3 +1,5 @@
+Note: If unable to render project details in git then please do use https://nbviewer.jupyter.org/github/mrsharathps/Logistic_Regression/blob/main/Income_prediction.ipynb
+
 # Logistic_Regression
 Logistic Regression For Income prediction
 
